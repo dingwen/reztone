@@ -1,0 +1,73 @@
+/* CSS Document page-blog.tpl.php */
+
+#content-header{
+	 margin-left:20px;
+
+}
+.title a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color: #AFC3CE;
+	line-height:30px;
+	text-decoration:none;
+}
+
+.submitted{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	font-style:italic;
+	color: #AFC3CE;
+	line-height:30px;
+}
+
+p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color: #E8E8E8;
+	line-height:24px;
+}
+
+.blue-dot{
+	margin:0 auto;
+	width:890px;
+}
+
+#content-area{
+	padding:30px;	
+}
+
+.region-right a:link, .region-right a:visited{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color: #AFC3CE;
+	line-height:24px;
+	text-decoration:none;
+}
+
+
+.region-right a:hover{
+	color: #E8E8E8;
+}
+
+.inline a:link, .inline a:visited{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color: #E8E8E8;
+	line-height:24px;
+	text-decoration:underline;
+}
+
+.inline a:hover{
+	color: #AFC3CE;
+	text-decoration:underline;
+}
+
+.node-inner{
+	width:700px;
+	}
+
+#sidebar-right{
+	width:200px;
+	float:right;
+	margin-top:30px;
+}

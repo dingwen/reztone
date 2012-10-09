@@ -1,0 +1,149 @@
+
+#content{
+	background-image:none;
+}
+
+#navbar{
+	float:right;
+	width:550px;
+	margin: 60px 0 0 30px;	
+}
+
+#home_top {
+	clear: both;
+}
+
+#home_top_image{
+	float:left;
+	height:342px;
+	width: 515px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+
+.view-Crtics{
+	float:left;
+	width:400px;
+	height:340px;
+	margin-top:30px;
+	
+}
+
+.view-Crtics p{
+	font-size:14px;
+	color:#E8E8E8;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px
+}
+
+.views-field-title span{
+	font-size:14px;
+	color:#AFC3CE;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px
+}
+
+#home_middle {
+	clear: both;
+}
+
+.views-field-field-cover-fid{
+	float:right;
+	height:275px;
+	width: 275px;
+	margin-top:0px;
+}
+
+.view-front-page-album{
+	background-image:url(images/index/cd_trans.png);
+	background-repeat:no-repeat;
+	margin-top:50px;
+}
+
+.view-front-page-album .views-field-title{
+	padding: 30px 0px 0px 30px;
+	width:400px;
+}
+
+.view-front-page-album .views-field-title span {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#E8E8E8;
+}
+	
+.view-front-page-album .views-field-field-date-value{
+	margin:20px 0 0 30px;
+	width:400px;
+}
+
+.view-front-page-album .views-field-field-date-value span{
+	font-size:14px;
+	color:#AFC3CE;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:-10px
+}
+
+.view-front-page-album .views-field-field-cd-description-value{
+	margin:20px 0 0 30px;
+	height:125px;
+}
+
+.view-front-page-album .field-content{
+	color:#E8E8E8;
+}
+
+#home_middle_links {
+	width: 660px;
+	margin: -16px 0 0 0;
+	text-align: right;
+}
+
+#home_middle_links a {
+	text-decoration: none;
+	color: #AFC3CE;
+}
+
+#home_middle_links a :hover{
+	color: #AFC3CE;
+}
+
+#home_bottom{
+	clear: both;
+	margin: 0px 0 30px 0;
+}
+
+#block-block-4{
+	background-image:url(images/index/video.png);
+	background-repeat:no-repeat;
+	height:310px;
+	width:405px;
+	float:right;
+}
+
+#block-block-4 .block-inner{
+	float:right;
+	margin:45px 40px 0 0px;
+}
+
+.view-front-page-news{
+	background-image:url(images/index/news.png);
+	background-repeat:no-repeat;
+	height:310px;
+	width:510px;
+
+}
+
+
+.view-front-page-news .view-content{
+	float:left;
+	margin:40px 20px 20px 20px;
+	overflow-y:scroll;
+	height:265px;
+}
+
+.view-front-page-news .views-field-body{
+	color:#E8E8E8;
+}

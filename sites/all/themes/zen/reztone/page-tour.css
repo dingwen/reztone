@@ -1,0 +1,34 @@
+tr.odd{
+	 background-color:#3B404F; 
+	 border:none;
+  }
+  
+tr.even{
+	background:none;
+	border:none;
+	height:20px;
+}
+
+.views-field-field-date-value{
+	width:150px;	
+}
+
+.views-field-title{
+	width:250px;
+}
+
+.views-field-field-venue-value{
+	width:200px;
+}
+
+.views-field-field-city-value{
+	width:100px;
+}
+
+.views-field-field-state-value{
+	width:130px;
+}
+
+.views-field-field-country-value{
+	width:100px;
+}

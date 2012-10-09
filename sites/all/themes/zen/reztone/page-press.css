@@ -1,0 +1,101 @@
+/* $Id: page-press.css $ */
+*{
+	font-weight:lighter;	
+}
+
+#download-img{
+	margin-top:30px;	
+}
+
+.panel-col-first{
+	width:550px;
+	margin:0 0 0 20px;
+}
+
+.panel-col-last{
+	width:330px;
+	margin:0 0 0 10px;
+}
+
+.pane-title{
+	font-size:24px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+}
+
+.view-Album-Review{
+	width:550px;
+	height:500px;
+	overflow-y:scroll;
+}
+
+#download-img{
+	margin-left:20px;	
+}
+
+#download-img a{
+	text-decoration:none;
+}
+
+.interview-container{
+	width:300px;
+}
+
+.interview-img{
+	float:right;
+	margin:0px 0 0px 0px;
+
+}
+
+.view-Interviews a{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-style:normal;
+	color: #AFC3CE;
+	line-height:24px;
+	text-decoration:none;
+}
+
+.view-Crtics{
+	font-size:14px;
+	color:#AFC3CE;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px	
+}
+
+.views-field-body{
+	font-size:14px;
+	color:#E8E8E8;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px	
+}
+
+.item-list h3{
+	background-color:#3B404F;
+	width:525px;
+	height:20px;
+}
+
+.view-Album-Review a {
+	font-size:14px;
+	color:#AFC3CE;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px;	
+	text-decoration:none;
+}
+
+.view-Album-Review a:hover {
+	color:#E8E8E8;
+}
+
+.view-Crtics a{
+	font-size:14px;
+	color:#AFC3CE;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	line-height:-10px	
+}
+

@@ -1,0 +1,40 @@
+/* $Id: node-gallery.css $ */
+*{
+	font-weight:lighter;	
+}
+
+
+.views-field-image-image{
+	margin:15px;	
+	
+}
+
+.views-row {
+	border:0;
+	padding:0px;
+	margin:30px;
+	width:120px;
+}
+
+
+#high-res-gallery li{
+	float:left;
+	margin:15px;
+	list-style: none;
+}
+
+a:link{
+	color:#AFC3CE;
+	text-decoration:none;
+}
+
+a:visted{
+	color:#AFC3CE;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#EBEBEB;
+	
+}
+

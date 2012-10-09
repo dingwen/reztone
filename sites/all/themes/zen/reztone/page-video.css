@@ -1,0 +1,19 @@
+/* $Id: node-video.css $ */
+*{
+	font-weight:lighter;	
+}
+
+
+.views-field-field-video-clip-embed{
+	margin:40px 0px 0px 0px;	
+	
+}
+
+.views-view-grid{
+	width:950px;	
+}
+
+.view-content{
+	padding:0 30px 30px 30px;
+	margin:0 auto;
+}

@@ -1,0 +1,64 @@
+/* $Id: node-video.css $ */
+*{
+	font-weight:lighter;	
+}
+
+.view-Music{
+	margin: 80px 0 0 0;	
+}
+
+.views-field-field-cover-fid{
+	padding:0px 80px 60px 30px;
+	width:150px;
+	float:left;
+	
+}
+
+.views-field-title{
+	width:350px;
+	float:left;
+	font-family:"Trebuchet MS";
+	font-size:21px;
+	color:#AFC3CE;
+	margin-bottom:20px;
+	}
+
+/*this should be the track listing not date*/
+.views-field-field-date-value{
+	width:350px;
+	float:left;
+	font-family:Georgia, Times New Roman, serif;
+	font-style:italic;
+	font-size:18px;
+	color:#AFC3CE;
+	line-height:24px;
+	padding-top:10px;
+}
+
+.views-field-field-track-reference-nid{
+	width:350px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#E8E8E8;
+	line-height:24px;
+	margin-top:15px;
+}
+
+.views-field-body{
+	width:330px;
+	float:left;
+	margin: -20px 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#E8E8E8;
+	line-height:24px;
+}
+
+.views-label-body{
+	font-family:Georgia, Times New Roman, serif;
+	font-style:italic;
+	font-size:18px;
+	color:#AFC3CE;
+	line-height:24px;
+}
